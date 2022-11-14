@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>testing</title>
+    <link href="https://jzb.github.io/testing/feed.xml" rel="self" />
+    <link href="https://jzb.github.io/testing" />
+    <updated>2022-11-13T18:04:57-05:00</updated>
+    <author>
+        <name>Joe Brockmeier</name>
+    </author>
+    <id>https://jzb.github.io/testing</id>
+
+    <entry>
+        <title>Using Publii with GitHub Pages</title>
+        <author>
+            <name>Joe Brockmeier</name>
+        </author>
+        <link href="https://jzb.github.io/testing/using-publii-with-github-pages.html"/>
+        <id>https://jzb.github.io/testing/using-publii-with-github-pages.html</id>
+
+        <updated>2022-11-13T18:04:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing Publii with GitHub pages. Might be a reasonable solution.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testing Publii with GitHub pages. Might be a reasonable solution.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

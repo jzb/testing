@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testing",
+    "description": "",
+    "home_page_url": "https://jzb.github.io/testing",
+    "feed_url": "https://jzb.github.io/testing/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joe Brockmeier"
+    },
+    "items": [
+        {
+            "id": "https://jzb.github.io/testing/using-publii-with-github-pages.html",
+            "url": "https://jzb.github.io/testing/using-publii-with-github-pages.html",
+            "title": "Using Publii with GitHub Pages",
+            "summary": "Testing Publii with GitHub pages. Might be a reasonable solution.",
+            "content_html": "<p>Testing Publii with GitHub pages. Might be a reasonable solution.</p>",
+            "author": {
+                "name": "Joe Brockmeier"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-13T18:04:57-05:00",
+            "date_modified": "2022-11-13T18:04:57-05:00"
+        }
+    ]
+}
