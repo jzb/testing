@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "testing",
+    "title": "GitHub Test Bloggy",
     "description": "",
     "home_page_url": "https://jzb.github.io/testing",
     "feed_url": "https://jzb.github.io/testing/feed.json",
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2022-11-13T18:04:57-05:00",
-            "date_modified": "2022-11-13T18:04:57-05:00"
+            "date_modified": "2023-02-13T22:34:46-05:00"
         }
     ]
 }
